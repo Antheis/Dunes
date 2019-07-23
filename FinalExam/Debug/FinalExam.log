@@ -1,0 +1,42 @@
+﻿  Camera.cpp
+  DesertShader.cpp
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Shader.h(28,64): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Floor.cpp
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Shader.h(29,66): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Floor.cpp(45,16): warning C4244:  'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Floor.cpp(45,16): warning C4244:         with
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Floor.cpp(45,16): warning C4244:         [
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Floor.cpp(45,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Floor.cpp(45,16): warning C4244:         ]
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Floor.cpp(58,36): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Floor.cpp(57,63): warning C4244:  'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Floor.cpp(63,21): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+  Light.cpp
+  main.cpp
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Floor.cpp(65,21): warning C4244:  'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Shader.h(28,64): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Model.cpp
+  PerlinNoise.cpp
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Shader.h(29,66): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\PerlinNoise.cpp(13,16): warning C4244:  'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\PerlinNoise.cpp(13,16): warning C4244:         with
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\PerlinNoise.cpp(13,16): warning C4244:         [
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\PerlinNoise.cpp(13,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\PerlinNoise.cpp(13,16): warning C4244:         ]
+  Scene.cpp
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\PerlinNoise.cpp(16,20): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Shader.h(28,64): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Shader.h(29,66): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Texture.cpp
+  Window.cpp
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Scene.cpp(10,16): warning C4244:  'initializing': conversion from '_Rep' to 'unsigned int', possible loss of data
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Scene.cpp(10,16): warning C4244:         with
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Scene.cpp(10,16): warning C4244:         [
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Scene.cpp(10,16): warning C4244:             _Rep=std::chrono::system_clock::rep
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Scene.cpp(10,16): warning C4244:         ]
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Shader.h(28,64): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Generating Code...
+C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\FinalExam\Shader.h(29,66): warning C4244:  'argument': conversion from 'int' to 'GLfloat', possible loss of data
+Camera.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  FinalExam.vcxproj -> C:\Users\Antheis\Desktop\KMU\Courses Semester 2\Computer Graphics II\FinalExam\Debug\FinalExam.exe
